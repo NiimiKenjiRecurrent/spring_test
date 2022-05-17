@@ -26,7 +26,7 @@ public class FizzBuzzController {
 			str+="Ass ";
 		}
 		if(str==""||num==0) {
-			str="ggmbｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇｇ";
+			str="gg";
 		}
 		mv.addObject("result",str);
 		mv.addObject("num",num);
